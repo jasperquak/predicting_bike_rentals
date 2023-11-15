@@ -1,4 +1,4 @@
-# predicting_bike_rentals
+# Predicting bike rentals
 
 Aim of this project is to predict the number of bike rentals in a US city with a model trained on historic bike rental data and weather related data. Three different models are compared: linear regression, decision tree regression and random forest regression.
 
